@@ -8,9 +8,7 @@
       "browser": "chrome",
       "uniqueScreenshotNames": true,
       "angular": false,
-      
-      "waitForTimeout":6000
-
+      "show":true
     }
 
   },"Mochawesome": {

@@ -24,5 +24,5 @@ Scenario('Registered user should login to SB Bolivia and logout', (I,generalPage
 });
 
 Scenario('Registered user should login to SB Perú and logout', (I,generalPage) => {
-    generalPage.sendForm('PE','usuariopruebape','1234567');
+    generalPage.sendForm1('PE','usuariopruebape','1234567');
 });
